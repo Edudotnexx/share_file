@@ -3,7 +3,7 @@
   "outbounds": [
  {
       "type": "xray",
-      "tag": "Fastly § 53",
+      "tag": "joinsho >>EmadGraphic § 0",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -41,7 +41,7 @@
             "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
