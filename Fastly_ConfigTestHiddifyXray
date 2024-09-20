@@ -84,13 +84,13 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
@@ -137,13 +137,13 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
@@ -190,13 +190,13 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
@@ -243,13 +243,13 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
@@ -296,13 +296,13 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
