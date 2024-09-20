@@ -3,7 +3,7 @@
   "outbounds": [
        {
       "type": "xray",
-      "tag": "Fastly § 0",
+      "tag": "joinsho >>EmadGraphic § 0",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -31,17 +31,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -56,7 +56,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 1",
+      "tag": "joinsho >>EmadGraphic § 1",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -84,17 +84,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -109,7 +109,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 2",
+      "tag": "joinsho >>EmadGraphic § 2",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -137,17 +137,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -162,7 +162,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 3",
+      "tag": "joinsho >>EmadGraphic § 3",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -190,17 +190,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -215,7 +215,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 4",
+      "tag": "joinsho >>EmadGraphic § 4",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -243,17 +243,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -268,7 +268,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 5",
+      "tag": "joinsho >>EmadGraphic § 5",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -296,17 +296,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -321,7 +321,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 6",
+      "tag": "joinsho >>EmadGraphic § 6",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -349,17 +349,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -374,7 +374,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 7",
+      "tag": "joinsho >>EmadGraphic § 7",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -402,17 +402,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -427,7 +427,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 8",
+      "tag": "joinsho >>EmadGraphic § 8",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -455,17 +455,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -480,7 +480,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 9",
+      "tag": "joinsho >>EmadGraphic § 9",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -508,17 +508,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -533,7 +533,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 10",
+      "tag": "joinsho >>EmadGraphic § 10",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -561,17 +561,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -586,7 +586,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 11",
+      "tag": "joinsho >>EmadGraphic § 11",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -614,17 +614,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -639,7 +639,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 12",
+      "tag": "joinsho >>EmadGraphic § 12",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -667,17 +667,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -692,7 +692,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 13",
+      "tag": "joinsho >>EmadGraphic § 13",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -720,17 +720,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -745,7 +745,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 14",
+      "tag": "joinsho >>EmadGraphic § 14",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -773,17 +773,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -798,7 +798,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 15",
+      "tag": "joinsho >>EmadGraphic § 15",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -826,17 +826,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -851,7 +851,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 16",
+      "tag": "joinsho >>EmadGraphic § 16",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -879,17 +879,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -904,7 +904,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 17",
+      "tag": "joinsho >>EmadGraphic § 17",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -932,17 +932,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -957,7 +957,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 18",
+      "tag": "joinsho >>EmadGraphic § 18",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -985,17 +985,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1010,7 +1010,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 19",
+      "tag": "joinsho >>EmadGraphic § 19",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1038,17 +1038,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1063,7 +1063,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 20",
+      "tag": "joinsho >>EmadGraphic § 20",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1091,17 +1091,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1116,7 +1116,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 21",
+      "tag": "joinsho >>EmadGraphic § 21",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1144,17 +1144,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1169,7 +1169,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 22",
+      "tag": "joinsho >>EmadGraphic § 22",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1197,17 +1197,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1222,7 +1222,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 23",
+      "tag": "joinsho >>EmadGraphic § 23",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1250,17 +1250,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1275,7 +1275,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 24",
+      "tag": "joinsho >>EmadGraphic § 24",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1303,17 +1303,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1328,7 +1328,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 25",
+      "tag": "joinsho >>EmadGraphic § 25",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1356,17 +1356,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1381,7 +1381,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 26",
+      "tag": "joinsho >>EmadGraphic § 26",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1409,17 +1409,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1434,7 +1434,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 27",
+      "tag": "joinsho >>EmadGraphic § 27",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1462,17 +1462,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1487,7 +1487,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 28",
+      "tag": "joinsho >>EmadGraphic § 28",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1515,17 +1515,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1540,7 +1540,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 29",
+      "tag": "joinsho >>EmadGraphic § 29",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1568,17 +1568,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1593,7 +1593,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 30",
+      "tag": "joinsho >>EmadGraphic § 30",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1621,17 +1621,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1646,7 +1646,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 31",
+      "tag": "joinsho >>EmadGraphic § 31",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1674,17 +1674,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1699,7 +1699,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 32",
+      "tag": "joinsho >>EmadGraphic § 32",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1727,17 +1727,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1752,7 +1752,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 33",
+      "tag": "joinsho >>EmadGraphic § 33",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1780,17 +1780,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1805,7 +1805,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 34",
+      "tag": "joinsho >>EmadGraphic § 34",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1833,17 +1833,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1858,7 +1858,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 35",
+      "tag": "joinsho >>EmadGraphic § 35",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1886,17 +1886,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1911,7 +1911,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 36",
+      "tag": "joinsho >>EmadGraphic § 36",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1939,17 +1939,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -1964,7 +1964,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 37",
+      "tag": "joinsho >>EmadGraphic § 37",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -1992,17 +1992,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2017,7 +2017,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 38",
+      "tag": "joinsho >>EmadGraphic § 38",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2045,17 +2045,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2070,7 +2070,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 39",
+      "tag": "joinsho >>EmadGraphic § 39",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2098,17 +2098,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2123,7 +2123,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 40",
+      "tag": "joinsho >>EmadGraphic § 40",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2151,17 +2151,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2176,7 +2176,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 41",
+      "tag": "joinsho >>EmadGraphic § 41",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2204,17 +2204,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2229,7 +2229,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 42",
+      "tag": "joinsho >>EmadGraphic § 42",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2257,17 +2257,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2282,7 +2282,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 43",
+      "tag": "joinsho >>EmadGraphic § 43",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2310,17 +2310,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2335,7 +2335,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 44",
+      "tag": "joinsho >>EmadGraphic § 44",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2363,17 +2363,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2388,7 +2388,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 45",
+      "tag": "joinsho >>EmadGraphic § 45",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2416,17 +2416,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2441,7 +2441,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 46",
+      "tag": "joinsho >>EmadGraphic § 46",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2469,17 +2469,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2494,7 +2494,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 47",
+      "tag": "joinsho >>EmadGraphic § 47",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2522,17 +2522,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2547,7 +2547,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 48",
+      "tag": "joinsho >>EmadGraphic § 48",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2575,17 +2575,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2600,7 +2600,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 49",
+      "tag": "joinsho >>EmadGraphic § 49",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2628,17 +2628,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2653,7 +2653,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 50",
+      "tag": "joinsho >>EmadGraphic § 50",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2681,17 +2681,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2706,7 +2706,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 51",
+      "tag": "joinsho >>EmadGraphic § 51",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2734,17 +2734,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2759,7 +2759,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 52",
+      "tag": "joinsho >>EmadGraphic § 52",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2787,17 +2787,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -2812,7 +2812,7 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 53",
+      "tag": "joinsho >>EmadGraphic § 53",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -2840,17 +2840,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
