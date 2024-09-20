@@ -9,13 +9,13 @@
         "settings": {
           "vnext": [
             {
-              "address": "104.156.85.239",
+              "address": "199.232.5.185",
               "port": 443,
               "users": [
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"
+                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
                 }
               ]
             }
@@ -31,14 +31,14 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
-            "path": "/H?ed=2560"
+            "host": "tamin80.ir",
+            "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
           }
         },
         "tag": "Fastly"
