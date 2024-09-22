@@ -9,7 +9,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "199.232.5.185",
+              "address": "199.232.15.13",
               "port": 443,
               "users": [
                 {
@@ -41,7 +41,7 @@
             "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
           }
         },
-        "tag": "joinsho >>EmadGraphic"
+        "tag": "joinsho >>EmadGraphic0"
       },
       "xray_fragment": {
         "packets": "tlshello",
