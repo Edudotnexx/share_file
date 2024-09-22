@@ -3,7 +3,7 @@
   "outbounds": [
        {
       "type": "xray",
-      "tag": "Fastly § 0",
+      "tag": "joinsho >>EmadGraphic § 0",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
@@ -15,7 +15,7 @@
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"
+                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
                 }
               ]
             }
@@ -31,17 +31,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
@@ -56,19 +56,19 @@
     },
     {
       "type": "xray",
-      "tag": "Fastly § 1",
+      "tag": "joinsho >>EmadGraphic § 1",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "104.156.81.138",
+              "address": "185.105.1.10",
               "port": 443,
               "users": [
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "89b3cbba-e6ac-485a-9481-976a0415eab9"
+                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
                 }
               ]
             }
@@ -84,17 +84,17 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "en.mfa.gov.ir"
+            "serverName": "tamin80.ir"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "en.mfa.gov.ir",
+            "host": "tamin80.ir",
             "path": "/H?ed=2560"
           }
         },
-        "tag": "Fastly"
+        "tag": "joinsho >>EmadGraphic"
       },
       "xray_fragment": {
         "packets": "tlshello",
