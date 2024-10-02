@@ -1,3 +1,10 @@
+//profile-title: base64:8J2QhPCdkKbwnZCa8J2QnfCdkIbwnZCr8J2QmvCdkKnwnZCh8J2QovCdkJwgLSB7V0FSUH0=
+//profile-update-interval: 120
+//subscription-userinfo: upload=0; download=12503400000; total=10737418240000000; expire=0
+//profile-web-page-url: https://github.com/Edudotnexx
+
+
+
 {
   
   "outbounds": [
@@ -15,7 +22,7 @@
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
+                  "id": "91b41e65-a104-4fde-906b-4ed6bbb18424"
                 }
               ]
             }
@@ -68,7 +75,7 @@
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
+                  "id": "91b41e65-a104-4fde-906b-4ed6bbb18424"
                 }
               ]
             }
