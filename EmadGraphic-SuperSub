@@ -56,13 +56,13 @@
     },
 {
       "type": "xray",
-      "tag": "joinsho >>EmadGraphic § 0",
+      "tag": "joinsho >>EmadGraphic § 1",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
           "vnext": [
             {
-              "address": "77.77.27.155",
+              "address": "193.161.132.53",
               "port": 19000,
               "users": [
                 {
