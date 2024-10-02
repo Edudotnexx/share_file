@@ -9,13 +9,13 @@
         "settings": {
           "vnext": [
             {
-              "address": "199.232.5.185",
-              "port": 443,
+              "address": "77.77.27.155",
+              "port": 19000,
               "users": [
                 {
                   "encryption": "none",
                   "flow": "",
-                  "id": "850a9d4e-4e1f-41e1-8ba1-b8d0a0d6fe00"
+                  "id": "91b41e65-a104-4fde-906b-4ed6bbb18424"
                 }
               ]
             }
@@ -31,14 +31,14 @@
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "tamin80.ir"
+            "serverName": "PAgES.dev"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "tamin80.ir",
-            "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
+            "host": "ev2raydev.pages.dev",
+            "path": "Pages.dev/?ed=2087"
           }
         },
         "tag": "joinsho >>EmadGraphic"
