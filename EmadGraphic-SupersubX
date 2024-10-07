@@ -16,7 +16,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "199.232.15.13",
+              "address": "172.67.169.18",
               "port": 443,
               "users": [
                 {
@@ -32,20 +32,20 @@
           "network": "ws",
           "security": "tls",
           "tlsSettings": {
-            "allowInsecure": true,
+            "allowInsecure": false,
             "alpn": [
               "http/1.1"
             ],
-            "fingerprint": "randomized",
+            "fingerprint": "chrome",
             "rejectUnknownSni": false,
-            "serverName": "tamin80.ir"
+            "serverName": "PaGes.Dev"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "tamin80.ir",
-            "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
+            "host": "Ev2raydev.Pages.Dev",
+            "path": "/?ed=2560"
           }
         },
         "tag": "joinsho >>EmadGraphic0"
@@ -69,7 +69,7 @@
         "settings": {
           "vnext": [
             {
-              "address": "151.101.66.219",
+              "address": "162.159.246.115",
               "port": 443,
               "users": [
                 {
@@ -85,20 +85,20 @@
           "network": "ws",
           "security": "tls",
           "tlsSettings": {
-            "allowInsecure": true,
+            "allowInsecure": false,
             "alpn": [
               "http/1.1"
             ],
             "fingerprint": "randomized",
             "rejectUnknownSni": false,
-            "serverName": "tamin80.ir"
+            "serverName": "Pages.Dev"
           },
           "wsSettings": {
             "headers": {
               "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
             },
-            "host": "tamin80.ir",
-            "path": "/xyZNlAE1NKHK20jM/cHJveHlpcC5kaWdpdGFsb2NlYW4uaHcuMDkwMjI3Lnh5eg==?ed=2560"
+            "host": "Ev2raydev.pages.dev",
+            "path": "/F?ed=2560"
           }
         },
         "tag": "joinsho >>EmadGraphic"
