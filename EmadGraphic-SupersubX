@@ -61,9 +61,62 @@
       },
       "xray_loglevel": ""
     },
-    {
+{
       "type": "xray",
       "tag": "joinsho >>EmadGraphic § 1",
+      "xray_outbound_raw": {
+        "protocol": "vless",
+        "settings": {
+          "vnext": [
+            {
+              "address": "172.67.169.18",
+              "port": 443,
+              "users": [
+                {
+                  "encryption": "none",
+                  "flow": "",
+                  "id": "5f676d84-c151-48c2-bc09-63017f4a822a"
+                }
+              ]
+            }
+          ]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "security": "tls",
+          "tlsSettings": {
+            "allowInsecure": false,
+            "alpn": [
+              "http/1.1"
+            ],
+            "fingerprint": "chrome",
+            "rejectUnknownSni": false,
+            "serverName": "PaGes.Dev"
+          },
+          "wsSettings": {
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+            },
+            "host": "yEcHIv2raY-X-cgYgFXDDEWAw345556.pAGES.dev",
+            "path": "/xBCFleRZ9fd3XOL6/MTkzLjEyMy42OS43Nw==?ed=2560"
+          }
+        },
+        "tag": "joinsho >>EmadGraphic X"
+      },
+      "xray_fragment": {
+        "packets": "tlshello",
+        "length": "20-40",
+        "interval": "2-4",
+        "host1_header": "",
+        "host1_domain": "",
+        "host2_header": "",
+        "host2_domain": ""
+      },
+      "xray_loglevel": ""
+    },
+    {
+      "type": "xray",
+      "tag": "joinsho >>EmadGraphic § 2",
       "xray_outbound_raw": {
         "protocol": "vless",
         "settings": {
